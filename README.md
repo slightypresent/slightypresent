@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slightypresent
 - 👀 I’m interested in Doig mulitple things at once to look busy, but I actually get nothing done. 
-- 🌱 I’m currently learning how to navigate GitHub and python using Chat GPT
+- 🌱 I’m currently learning how to navigate GitHub and python using Chat GPT because I cannot afford copilot.
 - 💞️ I’m looking to collaborate on anything to inprove may skillset.
 - 📫 How to reach me plasticdoughboy@gmail.com
 - 😄 Pronouns: are illegal
